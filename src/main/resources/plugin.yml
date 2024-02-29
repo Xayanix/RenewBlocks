@@ -1,0 +1,4 @@
+name: RenewBlocks
+version: '${project.version}'
+main: pl.xayanix.renewblocks.RenewBlocks
+api-version: '1.20'
